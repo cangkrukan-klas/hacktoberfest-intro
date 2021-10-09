@@ -144,6 +144,10 @@ Describe your changes and submit your pull request
 
 ![Submit pull request](assets/img/pull-req2.png)
 
+After that, wait for the Maintainer to review and give the feedback to your code. If your pull requests are considered good, the maintainer will merge your pull request into the `main` branch.
+
+![Accepted pull request](assets/img/pull-req3.png)
+
 -----
 
 ## License
