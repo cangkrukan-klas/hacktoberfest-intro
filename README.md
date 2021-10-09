@@ -24,7 +24,7 @@ Here is a way to contribute to this repository. Please enjoy 😀
 
 The first step is to create a **fork** of this repo. clicking on the **fork** button on the top of this page. A fork is basically your own working copy of this repository.
 
-![Forking the repo](assets/img/fork.png)
+![Forking the repo](assets/img/forked.png)
 
 ### Clone forked repo to your machine
 
@@ -69,7 +69,7 @@ git checkout -b <your-new-branch-name>
 git checkout -b create-profile
 ```
 
-### Add your profile.md
+### Add your first file
 
 Add your first file with the name `profile-[username].md` on the `contributors/` directory in that branch.
 
@@ -79,18 +79,17 @@ add your profile in `profile-[username].md` with syntax
 
 ```md
 # <username> profile
-s
-* name : 'xxx',
-* github : 'xxx',
-* email : 'xxx@xxx.com',
-* quotes : 'lorem ipsum sit dolor amet'
+- name : xxx
+- github : xxx
+- email : xxx@xxx.com
+- quotes : lorem ipsum sit dolor amet
 ```
-> Note: Replace `[username]` with your github username, i.e.  `geraldapm profile`
+> Note: Replace `<username>` with your github username, i.e.  `geraldapm profile`
 
 
 ### Add entry to Contributors.md
 
-Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
+Now open `contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
@@ -98,10 +97,10 @@ If you go to the project directory and execute the command `git status`, you'll 
 
 ### Committing your changes
 
+Add these changes to your next commit by running:
+
 Run `git status` to see which changes you have made. This will look something like:
 ![Git Status](assets/img/git-status.png)
-
-Add these changes to your next commit by running:
 
 ```sh
 git add .
