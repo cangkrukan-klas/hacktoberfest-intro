@@ -1,4 +1,4 @@
-# Hacktoberfest Introduction on UKM-ITC Trunojoyo
+# Hacktoberfest Introduction on UKMFT-ITC Trunojoyo
 
 Repository for introducing the Hacktoberfest Event to learn about contributing to open-source projects through GitHub.
 
