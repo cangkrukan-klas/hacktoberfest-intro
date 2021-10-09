@@ -134,18 +134,15 @@ For example:
 git push origin create-profile
 ```
 
-This will look something like:
-![Git Push Github](assets/img/git-push-branch.png)
-
 ## Open a Pull Request
 
-Head over to your repository on GitHub and click on the green "Compare and pull request" button.
+Head over to your repository on GitHub and click on the menu `pull-request`. Then open new pull request by clicking `Compare & pull request` button.
 
-![Compare and pull request](assets/img/pull-request.png)
+![Compare and pull request](assets/img/pull-req1.png)
 
 Describe your changes and submit your pull request
 
-![Submit pull request](assets/img/detail-pull-request.png)
+![Submit pull request](assets/img/pull-req2.png)
 
 -----
 
