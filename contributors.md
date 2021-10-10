@@ -1,3 +1,4 @@
 # Contributors on this project
 
-- [Geraldhi A.P. Mahayadnya](https://github.com/gerald-apm)
+- [Geraldhi Mahayadnya](https://github.com/gerald-apm)
+- [Masmudi](https://github.com/adimasmudi)
